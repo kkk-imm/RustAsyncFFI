@@ -1,2 +1,3 @@
 .vscode
-example01/target
+target
+*.lock
